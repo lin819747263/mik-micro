@@ -12,7 +12,7 @@
         <module>mik-micro-common</module>
         <module>mik-micro-demo</module>
         <module>mik-gateway</module>
-        <module>mik-user</module>
+        <module>mik-user-application</module>
     </modules>
 
     <properties>
