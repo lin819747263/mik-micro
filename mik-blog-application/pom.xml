@@ -9,7 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>mik-micro-demo</artifactId>
+    <artifactId>mik-blog-application</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>mik-blog</module>
+        <module>mik-blog-api</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
